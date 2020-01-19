@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{10FC2360-C209-E3B0-C43D-E4BAF96266D8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Vuforia/Shaders/DepthMask.shader">
+    <Files>
+      <File FileName="Assets/Vuforia/Shaders/DepthMask.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VuforiaEditorScripts PreferredExecutionTarget="Unity.Editor" />
+</Properties>
