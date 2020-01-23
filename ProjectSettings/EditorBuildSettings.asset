@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/PosterDemoScene.unity
+    guid: f811e4b74e7cf41888163353a9120f09
   m_configObjects: {}
